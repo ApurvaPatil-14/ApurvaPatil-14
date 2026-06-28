@@ -91,9 +91,7 @@ As a fresher, I'm looking for opportunities where I can contribute as a **Softwa
 
 # 🔭 Featured Projects
 
-## 🐦 BirdLens
-
-**Intelligent Bird Species Recognition and Information System**
+## BirdLens : Intelligent Bird Species Recognition and Information System ##
 
 An AI-powered computer vision platform capable of identifying bird species from images and videos while providing comprehensive biological information through an interactive digital encyclopedia.
 
