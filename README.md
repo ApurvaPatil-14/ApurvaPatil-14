@@ -132,6 +132,7 @@ Outside of software development, I enjoy exploring new technologies, reading abo
 
 <div align="center">
 
-### ⭐ *"Always Learning • Always Building • Always Improving"*
+###  *"Always Learning • Always Building • Always Improving"*
+⭐⭐⭐⭐
 
 </div>
